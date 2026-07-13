@@ -18,3 +18,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### Thanks for Visiting my GitHub Profile!
+
+---
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+[![](https://visitcountpro.netlify.app/api?id=VishwaGauravIn&pretty=true)](https://visitcount.itsvg.in)
