@@ -1,3 +1,22 @@
+<div align="center">
+
+# Hi, I'm Brahim Naji 👋
+
+### Backend engineer building systems that are secure by design — not by afterthought
+
+<br/>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=for-the-badge&logo=OpenAI&logoColor=white)
+
+</div>
+
+<br/>
+
+
 # 💫 About Me:
 🎓 4th-year engineering student @ ENSAF · 3IACN track (AI, Security & Digital Trust)<br>🔧 Backend engineer focused on Spring Boot microservices, event-driven architecture & distributed systems<br>🔐 Passionate about AI Security — building systems that are secure by design, not by afterthought<br>🧠 Currently building NexLayer — a unified developer API platform (auth · caching · job queues · AI gateway)<br>🌍 Based in Fès, Morocco — shipping production-grade systems from North Africa<br>📖 Learning obsessive: Kafka · Keycloak · DDD · RAG · Spring AI · Docker · CI/CD<br>✍️ Notes everything in Obsidian · Commits everything to GitHub · Understands the why behind every tool<br>🎯 Long-term goal: design, build, deploy & secure large-scale AI-powered distributed systems
 
@@ -24,5 +43,3 @@
 <p align="center">
 <img src="https://github.com/BrahimNajiCode/BrahimNajiCode/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
-
-[![](https://visitcountpro.netlify.app/api?id=VishwaGauravIn&pretty=true)](https://visitcount.itsvg.in)
