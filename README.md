@@ -14,6 +14,9 @@
 
 </div>
 
+<p align="center">
+  <img src="assets/brad-pitt-fight-club.gif" width="700" alt="Brad Pitt">
+</p>
 
 <br/>
 
