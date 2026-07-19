@@ -14,9 +14,6 @@
 
 </div>
 
-<p>
-  <div class="tenor-gif-embed" data-postid="12969465" data-share-method="host" data-aspect-ratio="2.5" data-width="100%"><a href="https://tenor.com/view/brad-pitt-fight-club-smiles-are-you-serious-gif-12969465">Brad Pitt Fight Club GIF</a>from <a href="https://tenor.com/search/brad+pitt-gifs">Brad Pitt GIFs</a></div> 
-</p>
 
 <br/>
 
