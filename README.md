@@ -17,9 +17,7 @@
 <p align="center">
   <img src="assets/brad-pitt-fight-club.gif" width="700" alt="Brad Pitt">
 </p>
-
 <br/>
-
 
 # 💫 About Me:
 🎓 4th-year engineering student @ ENSAF · 3IACN track (AI, Security & Digital Trust)<br>🔧 Backend engineer focused on Spring Boot microservices, event-driven architecture & distributed systems<br>🔐 Passionate about AI Security — building systems that are secure by design, not by afterthought<br>🧠 Currently building NexLayer — a unified developer API platform (auth · caching · job queues · AI gateway)<br>🌍 Based in Fès, Morocco — shipping production-grade systems from North Africa<br>📖 Learning obsessive: Kafka · Keycloak · DDD · RAG · Spring AI · Docker · CI/CD<br>✍️ Notes everything in Obsidian · Commits everything to GitHub · Understands the why behind every tool<br>🎯 Long-term goal: design, build, deploy & secure large-scale AI-powered distributed systems
