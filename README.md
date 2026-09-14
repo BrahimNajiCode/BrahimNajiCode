@@ -2,7 +2,7 @@
 
 # Hi, I'm Brahim Naji 👋
 
-### Backend engineer building systems that are secure by design — not by afterthought
+### Backend engineer building systems that are secure by design
 
 <br/>
 
